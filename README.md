@@ -1,2 +1,2 @@
 # python
-python related code
+python related code will be developed here for my profile.
